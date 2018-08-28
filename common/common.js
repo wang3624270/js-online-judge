@@ -39,3 +39,7 @@ _restartBtn.onclick=function () {
     _input.value=_inputVal;
     _runBtn.onclick();
 }
+let _refreshBtn=document.getElementById('refresh');
+_refreshBtn.onclick=function () {
+    location.reload();
+}
