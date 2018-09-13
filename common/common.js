@@ -25,7 +25,11 @@ function read_line(){
     return _inputArr[_line++];
 }
 function print(_val){
-    _output.value=_val;
+    if(_output.value==''){
+        _output.value=_val;
+    }else {
+        _output.value=_output.value+'\n'+_val;
+    }
 }
 let _resetBtn=document.getElementById('reset');
 _resetBtn.onclick=function () {
