@@ -21,6 +21,9 @@ _runBtn.onclick=function () {
 function readline(){
     return _inputArr[_line++];
 }
+function read_line(){
+    return _inputArr[_line++];
+}
 function print(_val){
     _output.value=_val;
 }
