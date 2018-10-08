@@ -19,7 +19,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="1" lean-forward="true" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -63,9 +67,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="905" />
+    <option name="x" value="797" />
     <option name="y" value="1" />
-    <option name="width" value="1013" />
+    <option name="width" value="1121" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -76,25 +80,7 @@
       <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="js-online-judge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-online-judge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-online-judge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-online-judge" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -141,25 +127,30 @@
       <workItem from="1536835736057" duration="4952000" />
       <workItem from="1536911637724" duration="1269000" />
       <workItem from="1536924020068" duration="3352000" />
-      <workItem from="1536982557975" duration="8000" />
+      <workItem from="1536982557975" duration="75000" />
+      <workItem from="1537079368228" duration="4841000" />
+      <workItem from="1537184751942" duration="4626000" />
+      <workItem from="1537264016014" duration="3984000" />
+      <workItem from="1537444093751" duration="3164000" />
+      <workItem from="1537963741047" duration="1107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34399000" />
+    <option name="totallyTimeSpent" value="52188000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="905" y="1" width="1013" height="1040" extended-state="0" />
+    <frame x="797" y="1" width="1121" height="1040" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18131869" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18051282" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3292683" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32705098" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32594234" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -469,7 +460,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="1" lean-forward="true" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
